@@ -1,0 +1,22 @@
+{
+  "name": "proxy-worker",
+  "version": "1.0.0",
+  "description": "A template for kick starting a Cloudflare Workers project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write '**/*.{js,css,json,md}'"
+  },
+  "author": "Pterobyte <jt1992@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "prettier": "^1.18.2"
+  },
+  "devDependencies": {
+    "eslint": "^6.2.1",
+    "eslint-config-prettier": "^6.1.0",
+    "eslint-plugin-prettier": "^3.1.0",
+    "husky": "^3.0.4",
+    "lint-staged": "^9.2.3"
+  }
+}

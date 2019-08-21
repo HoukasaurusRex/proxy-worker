@@ -1,0 +1,6 @@
+name = "proxy"
+type = "webpack"
+private = false
+account_id = "7eac946ff8fa04c28167ef68fda52396"
+zone_id = "72bd38eb34c348270b9ddf6c9b8021a6"
+route = "workers.houk.space/proxy/*"
