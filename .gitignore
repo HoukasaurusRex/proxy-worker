@@ -92,4 +92,13 @@ typings/
 # DynamoDB Local files
 .dynamodb/
 
-# End of https://www.gitignore.io/api/node
+# Worker
+/target
+**/*.rs.bk
+Cargo.lock
+bin/
+pkg/
+wasm-pack.log
+worker/
+node_modules/
+.cargo-ok
